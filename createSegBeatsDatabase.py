@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-University of North Dakota BERCLab's code for the PhysioNet 2020 Challenge
 """
 import os
 import glob
